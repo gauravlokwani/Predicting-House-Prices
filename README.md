@@ -1,1 +1,3 @@
 # Predicting-House-Prices
+This is my first project and I am really sorry becaues is not that well documented, but i will definitely find some time to document it.
+And if you want to see more advanced or updated version of this code you can read the book Hands-on Machine Learning with Sci-kit Learn, Keras and TensorFlow or you can also consult author's repository - https://github.com/ageron/handson-ml2.
